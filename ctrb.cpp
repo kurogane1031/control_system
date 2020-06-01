@@ -66,4 +66,5 @@ int main(){
   return 0;
 }
 
-//  LocalWords:  cassert cmath Eigen MatrixFunctions controllability
+//  LocalWords:  cassert cmath Eigen MatrixFunctions controllability ctrb
+//  LocalWords:  eigenvector
