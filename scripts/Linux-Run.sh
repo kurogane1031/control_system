@@ -1,3 +1,3 @@
 #!/bin/bash
 
-./ctrb.o
+./main.o
